@@ -11,9 +11,6 @@
 </p>
 
 
-
-
-
 <h3 align="left">Programming Languages:</h3>
 <p>
 	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -25,12 +22,10 @@
 </p>
 
 <h3 align="left">Backend Development:</h3>
-<p align="left">
+<p>
 	<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
 	</a>
-</p>
-<p align="left"> 
 	<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 	</a> 
