@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Masters in Science(MS) Data Science from University of Colorado Boulder**
 
-- 📫 How to reach me **abhilash.panicker@outlook.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
