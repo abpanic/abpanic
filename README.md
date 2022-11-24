@@ -7,7 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+	Linkedin : https://www.linkedin.com/in/abhilash-panicker-68952b159/
 </p>
+
+
 
 
 
@@ -104,10 +107,11 @@
 	</a>
 </p>
 <p align="left">
-	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="flask" width="40" height="40"/> 
+	<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> 
+	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 	</a>
 </p>
+
 
 
 <h3 align="left">Tools:</h3>
