@@ -60,46 +60,36 @@
 
 
 <h3 align="left">Database:</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-</p>
-<p align="left">  
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
-</p>
-<p align="left">	
+<p>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+	</a>
+	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+ 	<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+ 	</a> 
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 	</a> 
 </p>
 
 <h3 align="left">Devops:</h3>
-<p align="left">
+<p>
 	<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 	</a>
-</p>	
-<p align="left">
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 	</a> 
-</p>	
-<p align="left"> 
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 	</a>
 </p>	
 
 <h3 align="left">Framework:</h3>
-<p align="left">
+<p>
 	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
 	</a>
-</p>
-<p align="left">
 	<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 	</a>
@@ -108,12 +98,10 @@
 
 
 <h3 align="left">Tools:</h3>
-<p align="left">
+<p>
 	<a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 	</a> 
-</p>	
-<p align="left">
 	<a href="https://postman.com" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 	</a> 
