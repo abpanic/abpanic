@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abpanic&label=Profile%20views&color=0e75b6&style=flat" alt="abpanic" /> </p>
 
+- 🌱 I’m currently learning **Masters in Science(MS) Data Science from University of Colorado Boulder**
+
 - 📫 How to reach me **abhilash.panicker@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
