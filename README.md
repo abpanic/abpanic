@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abpanic&label=Profile%20views&color=0e75b6&style=flat" alt="abpanic" /> </p>
 
-<p align="left"> <a href="https://github.com/abpanic/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abpanic" alt="abpanic" /></a> </p>
+<p align="left"> <a href="https://github.com/abpanic/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=abpanic](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)" alt="abpanic" /></a> </p>
 
 - 🌱 I’m currently learning **Masters in Science(MS) Data Science from University of Colorado Boulder**
 
