@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/abpanic/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abpanic&theme=tokyonight" alt="abpanic" /></a> </p>
 
-- 🌱 I’m currently learning **Masters in Science(MS) Data Science from University of Colorado Boulder**
+- 🌱 I’m currently completing my M.S : **Masters in Science(MS) Data Science from University of Colorado Boulder**
 
 - 👨‍💻 All of my projects are available at [https://dbugr.netlify.app/projects/](https://dbugr.netlify.app/projects/)
 
-- 📫 How to reach me **[https://dbugr.netlify.app/contact/](https://dbugr.vercel.app/contact)**
+- 📫 How to reach me **[https://dbugr.vercel.app/contact/](https://dbugr.vercel.app/contact)**
 
-- 📄 Know about my experiences [https://dbugr.netlify.app/about/](https://dbugr.netlify.app/about/)
+- 📄 Know about my experiences [https://dbugr.vercel.app/about/](https://dbugr.netlify.app/about/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
