@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dbugr.netlify.app/projects/](https://dbugr.netlify.app/projects/)
 
-- 📫 How to reach me **https://dbugr.netlify.app/contact/**
+- 📫 How to reach me **[https://dbugr.netlify.app/contact/](https://dbugr.vercel.app/contact)**
 
 - 📄 Know about my experiences [https://dbugr.netlify.app/about/](https://dbugr.netlify.app/about/)
 
