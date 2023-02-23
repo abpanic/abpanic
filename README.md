@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[https://dbugr.vercel.app/contact/](https://dbugr.vercel.app/contact)**
 
-- 📄 Know about my experiences [https://dbugr.vercel.app/about/](https://dbugr.netlify.app/about/)
+- 📄 Know about my experiences **[https://dbugr.vercel.app/about/](https://dbugr.vercel.app/about/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
