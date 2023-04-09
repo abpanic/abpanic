@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://dbugr.vercel.app/projects](https://dbugr.vercel.app/projects)
 
-- 📝 I regularly write articles on [https://dbugr.vercel.app/blog](https://dbugr.vercel.app/blog)
-
 - 📄 Know about my experiences [https://dbugr.vercel.app/experience](https://dbugr.vercel.app/experience)
 
 <h3 align="left">Connect with me:</h3>
