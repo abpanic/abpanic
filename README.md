@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently pursuing **M.S.(AI & ML specialization - Data Science)**
 
-- 👨‍💻 All of my projects are available at [https://dbugr.vercel.app/projects](https://dbugr.vercel.app/projects)
-
+- 👨‍💻 Some of my projects are available at [here](https://eportfolio.mygreatlearning.com/abhilash-panicker2) and [here](https://eportfolio.mygreatlearning.com/abhilash-panicker)
 - 📄 Know about my experiences [https://dbugr.vercel.app/experience](https://dbugr.vercel.app/experience)
 
 <h3 align="left">Connect with me:</h3>
