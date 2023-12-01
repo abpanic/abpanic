@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abpanic" alt="abpanic" /></a> </p>
 
-- 🌱 I’m currently learning **M.S. Data Science from University of Colorado Boulder**
+- 🌱 I’m currently pursuing **M.S.(AI & ML specialization - Data Science)**
 
 - 👨‍💻 All of my projects are available at [https://dbugr.vercel.app/projects](https://dbugr.vercel.app/projects)
 
