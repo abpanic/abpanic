@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Panicker</h1>
-<h3 align="center">Passionate about Data with experience in Software, Data Engineering and Program Manager</h3>
+<h3 align="center">Passionate about Data and Finance with experience in Software, Data Engineering and Program Management</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abpanic" alt="abpanic" /></a> </p>
 
