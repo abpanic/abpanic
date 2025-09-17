@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abpanic" alt="abpanic" /></a> </p>
 
-- 🌱 I’m currently pursuing **M.S.(AI & ML specialization - Data Science)**
+- 🌱 I’m currently pursuing **Doctoral studies in Machine Learning**
+- I have M.S. in DataScience from Deakin University and PGP in AI & ML from UT, Austin.
 
 - 👨‍💻 Some of my projects are available at [here](https://eportfolio.mygreatlearning.com/abhilash-panicker2) and [here](https://eportfolio.mygreatlearning.com/abhilash-panicker)
 
