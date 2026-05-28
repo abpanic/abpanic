@@ -1,15 +1,34 @@
-<h1 align="center">Hi 👋, I'm Abhilash Panicker</h1>
-<h3 align="center">Passionate about Data and Finance with experience in Software, Data Engineering and Program Management</h3>
+# Hi 👋, I'm Abhilash Panicker
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abpanic" alt="abpanic" /></a> </p>
+### Sr. Software Engineer — Dataverse SDK Support @ Microsoft · Data Scientist · ML Researcher
 
-- 🌱 I’m currently pursuing **Doctoral studies in Machine Learning**
-- I have M.S. in DataScience from Deakin University and PGP in AI & ML from UT, Austin.
+- 💼 **Current:** Sr. Software Engineer, Dataverse SDK Support — Microsoft (May 2025–Present)
+- 🧠 Doctoral studies in Machine Learning | M.S. Data Science, Deakin University | PGP AI/ML, UT Austin
+- 📊 Passion areas: Data systems, finance analytics, and Power Platform engineering
+- 🌐 Portfolio & case studies: [dbugr.vercel.app](https://dbugr.vercel.app)
+- 🔗 [LinkedIn](https://linkedin.com/in/abhilash-panicker-68952b159) · [GitHub](https://github.com/abpanic)
 
-- 👨‍💻 Some of my projects are available at [here](https://eportfolio.mygreatlearning.com/abhilash-panicker2) and [here](https://eportfolio.mygreatlearning.com/abhilash-panicker)
+---
 
+### 🛠️ Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhilash-panicker-68952b159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash-panicker-68952b159" height="30" width="40" /></a>
-</p>
+**Languages:** Python · SQL · TypeScript · JavaScript · C#  
+**ML & AI:** TensorFlow · PyTorch · scikit-learn · NLP · LLMs · Time Series  
+**Data Eng:** SSIS · Apache NiFi · SQL Server · Azure Cosmos DB · PostgreSQL  
+**Platform:** Dataverse · Power Platform · Azure · Azure DevOps · GitHub  
+**Web:** Next.js · React · Tailwind CSS · REST APIs  
+
+---
+
+### 📌 Featured projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| [Data Unification](https://github.com/abpanic/data-unification) | SSIS · NiFi · SQL Server | ETL across 700 clinics; 100% adoption |
+| [Factor Model — BSE Mid-caps](https://dbugr.vercel.app/projects) | Python · SHAP | +240 bps risk-adjusted returns |
+| [Revenue Forecasting SaaS](https://dbugr.vercel.app/projects) | Python · ML ensemble | MAPE –18%; drift monitoring live |
+| [WebDev 101](https://github.com/abpanic/webdev-101) | JavaScript · HTML · CSS | 24-lesson curriculum, project-based |
+
+---
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abpanic&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
