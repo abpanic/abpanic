@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhilash Panicker
 
-### Sr. Software Engineer — Dataverse SDK Support @ Microsoft · Data Scientist · ML Researcher
+### Sr. SEE — Dataverse SDK Support @ Microsoft · Data Scientist · ML Researcher
 
 - 💼 **Current:** Sr. SEE, Dataverse SDK Support — Microsoft (May 2025–Present)
 - 🧠 Doctoral studies in Machine Learning | M.S. Data Science, Deakin University | MBA Finance, IIT Patna | PGP AI/ML, UT Austin
