@@ -3,7 +3,7 @@
 ### Sr. Software Engineer — Dataverse SDK Support @ Microsoft · Data Scientist · ML Researcher
 
 - 💼 **Current:** Sr. SEE, Dataverse SDK Support — Microsoft (May 2025–Present)
-- 🧠 Doctoral studies in Machine Learning | M.S. Data Science, Deakin University | PGP AI/ML, UT Austin
+- 🧠 Doctoral studies in Machine Learning | M.S. Data Science, Deakin University | MBA Finance, IIT Patna | PGP AI/ML, UT Austin
 - 📊 Passion areas: Data systems, finance analytics, and Power Platform engineering
 - 🌐 Portfolio & case studies: [dbugr.vercel.app](https://dbugr.vercel.app)
 - 🔗 [LinkedIn](https://linkedin.com/in/abhilash-panicker-68952b159) · [GitHub](https://github.com/abpanic)
