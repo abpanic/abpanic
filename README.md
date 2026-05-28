@@ -2,7 +2,7 @@
 
 ### Sr. Software Engineer — Dataverse SDK Support @ Microsoft · Data Scientist · ML Researcher
 
-- 💼 **Current:** Sr. Software Engineer, Dataverse SDK Support — Microsoft (May 2025–Present)
+- 💼 **Current:** Sr. SEE, Dataverse SDK Support — Microsoft (May 2025–Present)
 - 🧠 Doctoral studies in Machine Learning | M.S. Data Science, Deakin University | PGP AI/ML, UT Austin
 - 📊 Passion areas: Data systems, finance analytics, and Power Platform engineering
 - 🌐 Portfolio & case studies: [dbugr.vercel.app](https://dbugr.vercel.app)
